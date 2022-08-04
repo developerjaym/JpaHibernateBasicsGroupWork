@@ -32,9 +32,13 @@ Everyone should keep in mind the following
 * The user can search for students by name.
 
 **Phase 2 Features**:
-* The user can search for restaurants by name and location.
-* The user can select a restaurant and is then prompted for dish information (dish name, price, description, and a review (0 to 5 stars).
-* The user can select a restaurant see all the dishes at that restaurant.
+* The user can search for students by name and location.
+* Each student is issued an ID Card
+* There are 3 dorm rooms.
+* The user can select a student and add them to a dorm room
+* The user can see which students are in which dorm room
+* There are 2 teachers, each with an id and name and list of students.
+* When the user creates a student, the user can assign them to a teacher.
 * One unit test
 
 ## Restaurant
